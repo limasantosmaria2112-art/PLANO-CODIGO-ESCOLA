@@ -12,3 +12,5 @@ A dor que resolve: Falta de engajamento dos alunos com tarefas de casa, comporta
 	• Avatar e XP (Pontos de Experiência): O aluno ganha pontos ao entregar tarefas no prazo, ter boa frequência, participar de projetos sociais ou ajudar colegas (tutoria).
 	• Loja da Escola (Moeda Virtual): Os pontos acumulados podem ser trocados na plataforma por recompensas reais fornecidas pela escola, como ingressos para eventos da instituição, livros, moletons personalizados ou passes livres na biblioteca.
 	• Missões (Quests): Professores criam desafios interdisciplinares em equipe, promovendo a colaboração.
+
+deixe o mais simples possivel.
